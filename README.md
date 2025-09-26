@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently searching for a job as a full-stack developer, focusing on innovative and impactful projects.<br><br>👯 I’m looking to collaborate on web development projects, especially in areas like API development or frontend optimization.<br><br>🤝 I’m looking for help with improving my skills in React and other modern JavaScript frameworks.<br><br>🌱 I’m currently learning React and diving deeper into performance optimization for scalable applications.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
+</div>
+🚀 Full Stack Developer with 1 year of experience building robust web applications using Next.js, Nest.js, and Node.js<br><br>💼 Currently seeking opportunities to contribute to innovative projects and grow within dynamic development teams<br><br>🔧 Passionate about creating scalable solutions with modern JavaScript technologies, databases (MySQL/MongoDB), and agile methodologies<br><br>🌱 Currently expanding my expertise in advanced React patterns, TypeORM, and cloud deployment strategies<br><br>🤝 Open to collaborating on challenging projects that push the boundaries of web development
 
 
 ## 🌐 Socials:
