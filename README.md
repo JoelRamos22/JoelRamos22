@@ -2,13 +2,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </div>
-🚀 Full Stack Developer with 1 year of experience building robust web applications using Next.js, Nest.js, and Node.js<br><br>💼 Currently seeking opportunities to contribute to innovative projects and grow within dynamic development teams<br><br>🔧 Passionate about creating scalable solutions with modern JavaScript technologies, databases (MySQL/MongoDB), and agile methodologies<br><br>🌱 Currently expanding my expertise in advanced React patterns, TypeORM, and cloud deployment strategies<br><br>🤝 Open to collaborating on challenging projects that push the boundaries of web development
+Full Stack Developer with 1 year of experience building robust web applications using Next.js, Nest.js, and Node.js<br><br>💼 Currently seeking opportunities to contribute to innovative projects and grow within dynamic development teams<br><br>🔧 Passionate about creating scalable solutions with modern JavaScript technologies, databases (MySQL/MongoDB), and agile methodologies<br><br>🌱 Currently expanding my expertise in advanced React patterns, TypeORM, and cloud deployment strategies<br><br>🤝 Open to collaborating on challenging projects that push the boundaries of web development
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/german-joel/) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -25,9 +25,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JoelRamos22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
