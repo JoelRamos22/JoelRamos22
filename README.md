@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </div>
-Full Stack Developer with 1 year of experience building robust web applications using Next.js, Nest.js, and Node.js<br><br>💼 Currently seeking opportunities to contribute to innovative projects and grow within dynamic development teams<br><br>🔧 Passionate about creating scalable solutions with modern JavaScript technologies, databases (MySQL/MongoDB), and agile methodologies<br><br>🌱 Currently expanding my expertise in advanced React patterns, TypeORM, and cloud deployment strategies<br><br>🤝 Open to collaborating on challenging projects that push the boundaries of web development
+Full Stack Developer with 1 year of experience building robust web applications using Next.js, Nest.js, and Node.js<br><br>Currently seeking opportunities to contribute to innovative projects and grow within dynamic development teams<br><br>Passionate about creating scalable solutions with modern JavaScript technologies, databases (MySQL/MongoDB), and agile methodologies<br><br>Currently expanding my expertise in advanced React patterns, TypeORM, and cloud deployment strategies<br><br>Open to collaborating on challenging projects that push the boundaries of web development
 
 
 ## Socials:
@@ -22,8 +22,5 @@ Full Stack Developer with 1 year of experience building robust web applications 
 ## Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JoelRamos22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
